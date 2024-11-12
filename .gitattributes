@@ -1,1 +1,7 @@
+. filter=lfs diff=lfs merge=lfs -text
+venv/lib/python3.9/site-packages/numpy/.dylibs/libopenblas64_.0.dylib filter=lfs diff=lfs merge=lfs -text
+is filter=lfs diff=lfs merge=lfs -text
+65.77 filter=lfs diff=lfs merge=lfs -text
+MB filter=lfs diff=lfs merge=lfs -text
+venv/lib/python3.9/site-packages/scipy/.dylibs/libopenblas.0.dylib filter=lfs diff=lfs merge=lfs -text
 venv/lib/python3.9/site-packages/torch/lib/libtorch_cpu.dylib filter=lfs diff=lfs merge=lfs -text
