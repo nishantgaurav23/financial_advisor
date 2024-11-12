@@ -1,0 +1,874 @@
+instruction,context,response,topic,source,type
+"Scenario: A 35-year-old individual with a monthly income of ₹1,00,000 wants to start saving for retirement, build an emergency fund, and invest in a balanced portfolio. They have a moderate risk tolerance and aim to retire with a corpus of ₹3 crore by age 60.","Recommended approach:
+1. Budgeting: Allocate 20% for savings, 50% for needs, and 30% for wants.
+2. Emergency Fund: Build a 6-month emergency fund (₹6,00,000) by saving ₹20,000 monthly.
+3. Portfolio: Invest in a balanced portfolio with 60% in equities, 30% in debt funds, and 10% in fixed deposits.
+4. Retirement Goal: To reach ₹3 crore by age 60, save at least ₹20,000 monthly in growth-oriented investments assuming an 8% return.","For this financial plan:
+1. Follow a 50/30/20 budgeting rule to allocate ₹20,000 monthly towards savings.
+2. Prioritize building a ₹6,00,000 emergency fund within 2.5 years by saving ₹20,000 monthly.
+3. Invest savings in a balanced portfolio with 60% equities, 30% debt, and 10% fixed deposits.
+4. To achieve the retirement goal of ₹3 crore, allocate an additional ₹20,000 monthly to retirement-focused investments like equity mutual funds.",Integrated Financial Planning,Personal Finance and Retirement Guide,Complex Scenario
+"Scenario: A couple in their 40s with a combined monthly income of ₹2,00,000 want to save for their children’s education, manage current expenses, invest for retirement, and ensure financial protection in case of health emergencies.","Recommended approach:
+1. Budgeting: Allocate 40% for needs, 30% for education fund, 20% for retirement, and 10% for health insurance.
+2. Emergency Fund: Save 3 months' expenses (₹6,00,000) in a high-interest savings account.
+3. Portfolio: A moderate-risk portfolio with 50% in equities, 30% in debt funds, and 20% in health and life insurance.
+4. Health Insurance: Ensure family health coverage of at least ₹10,00,000.","Financial Strategy:
+1. Allocate ₹80,000 for household needs, ₹60,000 for an education fund, ₹40,000 towards retirement, and ₹20,000 for insurance.
+2. Build an emergency fund of ₹6,00,000 within 2-3 years for risk management.
+3. Distribute retirement savings in a balanced portfolio with 50% in equities and 30% in debt.
+4. Obtain health insurance with coverage of at least ₹10,00,000 to manage health-related risks.",Integrated Financial Planning,Comprehensive Financial Planning Guide,Complex Scenario
+"Scenario: A 25-year-old individual with a monthly income of ₹50000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹5000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹5000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹5000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Comprehensive Financial Guide,Complex Scenario
+"Scenario: A 26-year-old individual with a monthly income of ₹60000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹5500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹5500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹5500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Investment and Retirement Manual,Complex Scenario
+"Scenario: A 27-year-old individual with a monthly income of ₹70000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹6000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹6000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹6000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Risk Management Strategy Guide,Complex Scenario
+"Scenario: A 28-year-old individual with a monthly income of ₹80000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹6500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹6500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹6500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Life and Health Insurance Guide,Complex Scenario
+"Scenario: A 29-year-old individual with a monthly income of ₹90000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹7000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹7000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹7000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Income Planning for Families,Complex Scenario
+"Scenario: A 30-year-old individual with a monthly income of ₹100000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹7500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹7500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹7500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Comprehensive Financial Guide,Complex Scenario
+"Scenario: A 31-year-old individual with a monthly income of ₹110000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹8000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹8000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹8000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Investment and Retirement Manual,Complex Scenario
+"Scenario: A 32-year-old individual with a monthly income of ₹120000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹8500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹8500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹8500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Risk Management Strategy Guide,Complex Scenario
+"Scenario: A 33-year-old individual with a monthly income of ₹130000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹9000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹9000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹9000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Life and Health Insurance Guide,Complex Scenario
+"Scenario: A 34-year-old individual with a monthly income of ₹140000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹9500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹9500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹9500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Income Planning for Families,Complex Scenario
+"Scenario: A 35-year-old individual with a monthly income of ₹50000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹5000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹5000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹5000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Comprehensive Financial Guide,Complex Scenario
+"Scenario: A 36-year-old individual with a monthly income of ₹60000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹5500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹5500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹5500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Investment and Retirement Manual,Complex Scenario
+"Scenario: A 37-year-old individual with a monthly income of ₹70000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹6000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹6000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹6000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Risk Management Strategy Guide,Complex Scenario
+"Scenario: A 38-year-old individual with a monthly income of ₹80000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹6500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹6500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹6500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Life and Health Insurance Guide,Complex Scenario
+"Scenario: A 39-year-old individual with a monthly income of ₹90000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹7000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹7000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹7000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Income Planning for Families,Complex Scenario
+"Scenario: A 40-year-old individual with a monthly income of ₹100000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹7500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹7500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹7500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Comprehensive Financial Guide,Complex Scenario
+"Scenario: A 41-year-old individual with a monthly income of ₹110000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹8000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹8000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹8000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Investment and Retirement Manual,Complex Scenario
+"Scenario: A 42-year-old individual with a monthly income of ₹120000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹8500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹8500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹8500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Risk Management Strategy Guide,Complex Scenario
+"Scenario: A 43-year-old individual with a monthly income of ₹130000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹9000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹9000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹9000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Life and Health Insurance Guide,Complex Scenario
+"Scenario: A 44-year-old individual with a monthly income of ₹140000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹9500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹9500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹9500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Income Planning for Families,Complex Scenario
+"Scenario: A 45-year-old individual with a monthly income of ₹50000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹5000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹5000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹5000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Comprehensive Financial Guide,Complex Scenario
+"Scenario: A 46-year-old individual with a monthly income of ₹60000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹5500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹5500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹5500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Investment and Retirement Manual,Complex Scenario
+"Scenario: A 47-year-old individual with a monthly income of ₹70000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹6000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹6000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹6000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Risk Management Strategy Guide,Complex Scenario
+"Scenario: A 48-year-old individual with a monthly income of ₹80000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹6500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹6500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹6500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Life and Health Insurance Guide,Complex Scenario
+"Scenario: A 49-year-old individual with a monthly income of ₹90000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹7000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹7000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹7000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Income Planning for Families,Complex Scenario
+"Scenario: A 50-year-old individual with a monthly income of ₹100000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹7500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹7500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹7500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Comprehensive Financial Guide,Complex Scenario
+"Scenario: A 51-year-old individual with a monthly income of ₹110000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹8000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹8000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹8000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Investment and Retirement Manual,Complex Scenario
+"Scenario: A 52-year-old individual with a monthly income of ₹120000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹8500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹8500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹8500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Risk Management Strategy Guide,Complex Scenario
+"Scenario: A 53-year-old individual with a monthly income of ₹130000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹9000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹9000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹9000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Life and Health Insurance Guide,Complex Scenario
+"Scenario: A 54-year-old individual with a monthly income of ₹140000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹9500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹9500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹9500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Income Planning for Families,Complex Scenario
+"Scenario: A 55-year-old individual with a monthly income of ₹50000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹5000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹5000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹5000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Comprehensive Financial Guide,Complex Scenario
+"Scenario: A 56-year-old individual with a monthly income of ₹60000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹5500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹5500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹5500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Investment and Retirement Manual,Complex Scenario
+"Scenario: A 57-year-old individual with a monthly income of ₹70000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹6000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹6000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹6000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Risk Management Strategy Guide,Complex Scenario
+"Scenario: A 58-year-old individual with a monthly income of ₹80000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹6500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹6500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹6500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Life and Health Insurance Guide,Complex Scenario
+"Scenario: A 59-year-old individual with a monthly income of ₹90000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹7000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹7000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹7000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Income Planning for Families,Complex Scenario
+"Scenario: A 25-year-old individual with a monthly income of ₹100000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹7500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹7500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹7500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Comprehensive Financial Guide,Complex Scenario
+"Scenario: A 26-year-old individual with a monthly income of ₹110000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹8000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹8000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹8000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Investment and Retirement Manual,Complex Scenario
+"Scenario: A 27-year-old individual with a monthly income of ₹120000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹8500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹8500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹8500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Risk Management Strategy Guide,Complex Scenario
+"Scenario: A 28-year-old individual with a monthly income of ₹130000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹9000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹9000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹9000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Life and Health Insurance Guide,Complex Scenario
+"Scenario: A 29-year-old individual with a monthly income of ₹140000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹9500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹9500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹9500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Income Planning for Families,Complex Scenario
+"Scenario: A 30-year-old individual with a monthly income of ₹50000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹5000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹5000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹5000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Comprehensive Financial Guide,Complex Scenario
+"Scenario: A 31-year-old individual with a monthly income of ₹60000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹5500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹5500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹5500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Investment and Retirement Manual,Complex Scenario
+"Scenario: A 32-year-old individual with a monthly income of ₹70000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹6000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹6000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹6000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Risk Management Strategy Guide,Complex Scenario
+"Scenario: A 33-year-old individual with a monthly income of ₹80000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹6500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹6500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹6500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Life and Health Insurance Guide,Complex Scenario
+"Scenario: A 34-year-old individual with a monthly income of ₹90000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹7000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹7000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹7000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Income Planning for Families,Complex Scenario
+"Scenario: A 35-year-old individual with a monthly income of ₹100000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹7500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹7500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹7500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Comprehensive Financial Guide,Complex Scenario
+"Scenario: A 36-year-old individual with a monthly income of ₹110000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹8000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹8000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹8000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Investment and Retirement Manual,Complex Scenario
+"Scenario: A 37-year-old individual with a monthly income of ₹120000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹8500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹8500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹8500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Risk Management Strategy Guide,Complex Scenario
+"Scenario: A 38-year-old individual with a monthly income of ₹130000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹9000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹9000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹9000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Life and Health Insurance Guide,Complex Scenario
+"Scenario: A 39-year-old individual with a monthly income of ₹140000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹9500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹9500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹9500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Income Planning for Families,Complex Scenario
+"Scenario: A 40-year-old individual with a monthly income of ₹50000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹5000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹5000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹5000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Comprehensive Financial Guide,Complex Scenario
+"Scenario: A 41-year-old individual with a monthly income of ₹60000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹5500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹5500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹5500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Investment and Retirement Manual,Complex Scenario
+"Scenario: A 42-year-old individual with a monthly income of ₹70000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹6000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹6000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹6000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Risk Management Strategy Guide,Complex Scenario
+"Scenario: A 43-year-old individual with a monthly income of ₹80000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹6500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹6500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹6500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Life and Health Insurance Guide,Complex Scenario
+"Scenario: A 44-year-old individual with a monthly income of ₹90000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹7000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹7000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹7000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Income Planning for Families,Complex Scenario
+"Scenario: A 45-year-old individual with a monthly income of ₹100000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹7500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹7500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹7500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Comprehensive Financial Guide,Complex Scenario
+"Scenario: A 46-year-old individual with a monthly income of ₹110000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹8000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹8000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹8000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Investment and Retirement Manual,Complex Scenario
+"Scenario: A 47-year-old individual with a monthly income of ₹120000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹8500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹8500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹8500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Risk Management Strategy Guide,Complex Scenario
+"Scenario: A 48-year-old individual with a monthly income of ₹130000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹9000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹9000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹9000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Life and Health Insurance Guide,Complex Scenario
+"Scenario: A 49-year-old individual with a monthly income of ₹140000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹9500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹9500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹9500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Income Planning for Families,Complex Scenario
+"Scenario: A 50-year-old individual with a monthly income of ₹50000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹5000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹5000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹5000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Comprehensive Financial Guide,Complex Scenario
+"Scenario: A 51-year-old individual with a monthly income of ₹60000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹5500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹5500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹5500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Investment and Retirement Manual,Complex Scenario
+"Scenario: A 52-year-old individual with a monthly income of ₹70000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹6000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹6000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹6000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Risk Management Strategy Guide,Complex Scenario
+"Scenario: A 53-year-old individual with a monthly income of ₹80000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹6500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹6500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹6500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Life and Health Insurance Guide,Complex Scenario
+"Scenario: A 54-year-old individual with a monthly income of ₹90000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹7000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹7000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹7000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Income Planning for Families,Complex Scenario
+"Scenario: A 55-year-old individual with a monthly income of ₹100000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹7500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹7500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹7500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Comprehensive Financial Guide,Complex Scenario
+"Scenario: A 56-year-old individual with a monthly income of ₹110000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹8000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹8000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹8000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Investment and Retirement Manual,Complex Scenario
+"Scenario: A 57-year-old individual with a monthly income of ₹120000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹8500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹8500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹8500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Risk Management Strategy Guide,Complex Scenario
+"Scenario: A 58-year-old individual with a monthly income of ₹130000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹9000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹9000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹9000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Life and Health Insurance Guide,Complex Scenario
+"Scenario: A 59-year-old individual with a monthly income of ₹140000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹9500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹9500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹9500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Income Planning for Families,Complex Scenario
+"Scenario: A 25-year-old individual with a monthly income of ₹50000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹5000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹5000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹5000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Comprehensive Financial Guide,Complex Scenario
+"Scenario: A 26-year-old individual with a monthly income of ₹60000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹5500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹5500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹5500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Investment and Retirement Manual,Complex Scenario
+"Scenario: A 27-year-old individual with a monthly income of ₹70000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹6000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹6000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹6000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Risk Management Strategy Guide,Complex Scenario
+"Scenario: A 28-year-old individual with a monthly income of ₹80000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹6500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹6500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹6500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Life and Health Insurance Guide,Complex Scenario
+"Scenario: A 29-year-old individual with a monthly income of ₹90000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹7000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹7000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹7000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Income Planning for Families,Complex Scenario
+"Scenario: A 30-year-old individual with a monthly income of ₹100000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹7500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹7500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹7500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Comprehensive Financial Guide,Complex Scenario
+"Scenario: A 31-year-old individual with a monthly income of ₹110000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹8000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹8000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹8000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Investment and Retirement Manual,Complex Scenario
+"Scenario: A 32-year-old individual with a monthly income of ₹120000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹8500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹8500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹8500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Risk Management Strategy Guide,Complex Scenario
+"Scenario: A 33-year-old individual with a monthly income of ₹130000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹9000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹9000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹9000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Life and Health Insurance Guide,Complex Scenario
+"Scenario: A 34-year-old individual with a monthly income of ₹140000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹9500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹9500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹9500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Income Planning for Families,Complex Scenario
+"Scenario: A 35-year-old individual with a monthly income of ₹50000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹5000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹5000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹5000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Comprehensive Financial Guide,Complex Scenario
+"Scenario: A 36-year-old individual with a monthly income of ₹60000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹5500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹5500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹5500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Investment and Retirement Manual,Complex Scenario
+"Scenario: A 37-year-old individual with a monthly income of ₹70000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹6000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹6000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹6000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Risk Management Strategy Guide,Complex Scenario
+"Scenario: A 38-year-old individual with a monthly income of ₹80000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹6500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹6500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹6500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Life and Health Insurance Guide,Complex Scenario
+"Scenario: A 39-year-old individual with a monthly income of ₹90000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹7000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹7000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹7000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Income Planning for Families,Complex Scenario
+"Scenario: A 40-year-old individual with a monthly income of ₹100000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹7500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹7500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹7500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Comprehensive Financial Guide,Complex Scenario
+"Scenario: A 41-year-old individual with a monthly income of ₹110000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹8000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹8000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹8000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Investment and Retirement Manual,Complex Scenario
+"Scenario: A 42-year-old individual with a monthly income of ₹120000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹8500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹8500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹8500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Risk Management Strategy Guide,Complex Scenario
+"Scenario: A 43-year-old individual with a monthly income of ₹130000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹9000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹9000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹9000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Life and Health Insurance Guide,Complex Scenario
+"Scenario: A 44-year-old individual with a monthly income of ₹140000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹9500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹9500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹9500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Income Planning for Families,Complex Scenario
+"Scenario: A 45-year-old individual with a monthly income of ₹50000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹5000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹5000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹5000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Comprehensive Financial Guide,Complex Scenario
+"Scenario: A 46-year-old individual with a monthly income of ₹60000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹5500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹5500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹5500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Investment and Retirement Manual,Complex Scenario
+"Scenario: A 47-year-old individual with a monthly income of ₹70000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹6000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹6000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹6000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Risk Management Strategy Guide,Complex Scenario
+"Scenario: A 48-year-old individual with a monthly income of ₹80000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹6500000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹6500000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹6500000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Life and Health Insurance Guide,Complex Scenario
+"Scenario: A 49-year-old individual with a monthly income of ₹90000 wants to build an emergency fund, start saving for retirement, and invest for moderate growth. They have a goal of accumulating ₹7000000 by retirement and need guidance on budgeting, risk management, and portfolio allocation.","Recommended approach:
+1. Budgeting: Allocate 50% for essential needs, 20% for savings, and 30% for discretionary expenses.
+2. Emergency Fund: Build a 6-month emergency fund to cover needs.
+3. Portfolio: Use a balanced approach with 50% equities, 30% debt funds, and 20% in fixed income.
+4. Retirement Goal: To reach ₹7000000, save approximately 20% of monthly income in growth-oriented investments.","For this plan:
+1. Follow the budgeting allocation of 50% for needs, 30% for wants, and 20% for savings.
+2. Build a 6-month emergency fund within the next 2 years.
+3. Invest retirement savings in a balanced portfolio with 50% equities, 30% debt, and 20% fixed deposits.
+4. To achieve the retirement goal of ₹7000000, allocate 20% of monthly income towards long-term investments.",Integrated Financial Planning,Income Planning for Families,Complex Scenario

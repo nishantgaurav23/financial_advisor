@@ -1,0 +1,15 @@
+langchain
+faiss-cpu
+sentence-transformers
+torch
+transformers
+pypdf
+python-docx
+pandas
+openpyxl
+beautifulsoup4
+markdown
+unstructured
+pydantic
+pydantic-settings
+python-dotenv

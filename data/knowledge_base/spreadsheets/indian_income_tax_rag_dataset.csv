@@ -1,0 +1,42 @@
+instruction,context,response,category,source,type
+"How much tax would I pay on an income of ₹12,00,000 under the old tax regime?","Under the old regime, taxpayers can use deductions under sections like 80C, 80D. The tax slabs are: 
+- Up to ₹2,50,000: No tax
+- ₹2,50,001 to ₹5,00,000: 5%
+- ₹5,00,001 to ₹10,00,000: 20%
+- Above ₹10,00,000: 30%.
+For this example, assume deductions under 80C of ₹1,50,000.","With an income of ₹12,00,000, and assuming a deduction of ₹1,50,000 under section 80C, the taxable income is ₹10,50,000. The tax calculation is:
+- ₹2,50,000 - ₹5,00,000: 5% of ₹2,50,000 = ₹12,500
+- ₹5,00,001 - ₹10,00,000: 20% of ₹5,00,000 = ₹1,00,000
+- ₹10,00,001 - ₹10,50,000: 30% of ₹50,000 = ₹15,000
+Total tax = ₹12,500 + ₹1,00,000 + ₹15,000 = ₹1,27,500.",Income Tax Calculation,Indian Income Tax Guide 2023,Old Regime Calculation
+"What is the income tax for ₹12,00,000 under the new tax regime?","Under the new regime (FY 2023-24), there are no deductions. The tax slabs are:
+- Up to ₹2,50,000: No tax
+- ₹2,50,001 to ₹5,00,000: 5%
+- ₹5,00,001 to ₹7,50,000: 10%
+- ₹7,50,001 to ₹10,00,000: 15%
+- ₹10,00,001 to ₹12,50,000: 20%
+No deductions or exemptions are available.","For an income of ₹12,00,000 under the new tax regime, the tax calculation is:
+- ₹2,50,000 - ₹5,00,000: 5% of ₹2,50,000 = ₹12,500
+- ₹5,00,001 - ₹7,50,000: 10% of ₹2,50,000 = ₹25,000
+- ₹7,50,001 - ₹10,00,000: 15% of ₹2,50,000 = ₹37,500
+- ₹10,00,001 - ₹12,00,000: 20% of ₹2,00,000 = ₹40,000
+Total tax = ₹12,500 + ₹25,000 + ₹37,500 + ₹40,000 = ₹1,15,000.",Income Tax Calculation,Indian Income Tax Guide 2023,New Regime Calculation
+"How much tax would I pay on an income of ₹8,00,000 under the old tax regime with deductions?","Under the old regime, taxpayers can use deductions like 80C (₹1,50,000), 80D (₹25,000 for health insurance). The tax slabs are:
+- Up to ₹2,50,000: No tax
+- ₹2,50,001 to ₹5,00,000: 5%
+- ₹5,00,001 to ₹10,00,000: 20%.
+Assume deductions under 80C and 80D totaling ₹1,75,000.","With an income of ₹8,00,000, and total deductions of ₹1,75,000, the taxable income is ₹6,25,000.
+The tax calculation is:
+- ₹2,50,000 - ₹5,00,000: 5% of ₹2,50,000 = ₹12,500
+- ₹5,00,001 - ₹6,25,000: 20% of ₹1,25,000 = ₹25,000
+Total tax = ₹12,500 + ₹25,000 = ₹37,500.",Income Tax Calculation,Indian Income Tax Guide 2023,Old Regime Calculation
+"How is the income tax calculated on ₹8,00,000 under the new tax regime without deductions?","Under the new tax regime for FY 2023-24, tax slabs are:
+- Up to ₹2,50,000: No tax
+- ₹2,50,001 to ₹5,00,000: 5%
+- ₹5,00,001 to ₹7,50,000: 10%
+- ₹7,50,001 to ₹10,00,000: 15%
+No deductions or exemptions apply.","For an income of ₹8,00,000 under the new tax regime:
+- ₹2,50,000 - ₹5,00,000: 5% of ₹2,50,000 = ₹12,500
+- ₹5,00,001 - ₹7,50,000: 10% of ₹2,50,000 = ₹25,000
+- ₹7,50,001 - ₹8,00,000: 15% of ₹50,000 = ₹7,500
+Total tax = ₹12,500 + ₹25,000 + ₹7,500 = ₹45,000.",Income Tax Calculation,Indian Income Tax Guide 2023,New Regime Calculation
