@@ -13,3 +13,15 @@ unstructured
 pydantic
 pydantic-settings
 python-dotenv
+plotly
+pandas
+fpdf2
+tabula-py
+openpyxl
+python-docx
+pytest
+pytest-cov
+plotly
+fpdf2
+pandas
+tabula-py

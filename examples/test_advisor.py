@@ -32,7 +32,9 @@ def main():
 
     # Test query
     #query = "What are the basics of retirement planning?"
-    query = "I want to retire in 20 years, how much do I need to save?"
+    #query = "I want to retire in 20 years, how much do I need to save?"
+    #query = "I am 30 years old and earning Rs. 50000 per month. I want to retire in 30 years. How should i plan my retirement?"
+    query = "I earn 1500000 per annum. Calculate my yearly income tax based on new regime of income tax in India."
     response = rag_engine.query(query)
     
     print("\nQuery:", query)
